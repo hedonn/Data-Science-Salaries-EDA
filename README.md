@@ -15,7 +15,7 @@ Ai-jobs.net is a website that gathers salary data from AI/ML/Data Science profes
 *  salary_currency The currency of the salary paid, represented as an ISO 4217 currency code.
 *  salary_in_usd The salary converted to USD using the FX rate divided by the average USD rate for the respective year via fxdata.foorilla.com.
 *  employee_residence The primary country of residence of the employee during the work year, indicated by an ISO 3166 country code.
-*  remote_ratio The percentage of work done remotely, categorized as: 0 (No remote work, less than 20%), 50 (Partially remote), 100 (Fully remote, more than 80%).
+*  remote_ratio The percentage of work done remotely, categorized as: 0 (No remote work), 50 (Partially remote), 100 (Fully remote).
 *  company_location The country of the employer's main office or contracting branch, represented by an ISO 3166 country code.
 *  company_size The average number of people that worked for the company during the year, classified as: S (less than 50 employees, small), M (50 to 250 employees, medium), L (more than 250 employees, large).
 
